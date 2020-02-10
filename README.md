@@ -5,6 +5,7 @@
 2. Configure static linking:
 
 ![image](https://user-images.githubusercontent.com/7895269/74130864-c6078200-4beb-11ea-84cd-859496b3fefb.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/7895269/74130864-c6078200-4beb-11ea-84cd-859496b3fefb.png" align="middle" width="20%" height="20%"/>
 
 3. Configure library paths:
 
