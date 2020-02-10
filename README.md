@@ -4,7 +4,7 @@
 1. You will need TDM-GCC 5.1.0 32-bit compiler (not 64-bit);
 2. Configure static linking:
 
-![image](https://user-images.githubusercontent.com/7895269/74130864-c6078200-4beb-11ea-84cd-859496b3fefb.png?s=200)
+![image](https://user-images.githubusercontent.com/7895269/74130864-c6078200-4beb-11ea-84cd-859496b3fefb.png?s=100)
 
 3. Configure library paths:
 
