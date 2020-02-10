@@ -9,4 +9,5 @@
 3. Configure library paths:
 
 4. Command line compilation statement: 
+
 `g++.exe "C:\Users\darba\Desktop\Other Projects\16_Games\14 Chess\main.cpp" -o "C:\Users\darba\Desktop\Other Projects\16_Games\14 Chess\main.exe" -DSFML_STATIC -std=c++11 -I"C:\SFML-2.5.1\include" -I"C:\TDM-GCC-32\include" -I"C:\TDM-GCC-32\lib\gcc\mingw32\5.1.0\include" -I"C:\TDM-GCC-32\lib\gcc\mingw32\5.1.0\include\c++" -I"C:\Windows\System32\" -L"C:\Windows\System32\" -L"C:\SFML-2.5.1\lib" -L"C:\TDM-GCC-32\lib" -L"C:\TDM-GCC-32\mingw32\lib" -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -lopengl32 -lglu32 -lgdi32 -lfreetype -lwinmm`
