@@ -8,8 +8,10 @@
 
 3. Configure library paths:
 
-<img src="https://user-images.githubusercontent.com/7895269/74131253-9e64e980-4bec-11ea-9bfc-32060b4868dc.png" align="middle" width="25%" height="25%"/><img src="https://user-images.githubusercontent.com/7895269/74131288-ae7cc900-4bec-11ea-93c4-ddc0ddc5be60.png" align="middle" width="25%" height="25%"/>
-<img src="https://user-images.githubusercontent.com/7895269/74131302-b472aa00-4bec-11ea-9f0d-1ef1fc77d2cd.png" align="middle" width="25%" height="25%"/><img src="https://user-images.githubusercontent.com/7895269/74131318-bc324e80-4bec-11ea-8304-5b1b01134b17.png" align="middle" width="25%" height="25%"/>
+<img src="https://user-images.githubusercontent.com/7895269/74131253-9e64e980-4bec-11ea-9bfc-32060b4868dc.png" align="middle" width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/7895269/74131288-ae7cc900-4bec-11ea-93c4-ddc0ddc5be60.png" align="middle" width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/7895269/74131302-b472aa00-4bec-11ea-9f0d-1ef1fc77d2cd.png" align="middle" width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/7895269/74131318-bc324e80-4bec-11ea-8304-5b1b01134b17.png" align="middle" width="20%" height="20%"/>
 
 4. Command line compilation statement: 
 
